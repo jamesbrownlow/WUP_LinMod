@@ -50,6 +50,11 @@ This plot shows that................
 ### Numerical results
 
 
+```{r}
+cor(SIMS~ARM,data=data)
+```
+the correlation shows that I know very little about statistics, see you in the Fall
+
 ### Inferential  (Build model.1)
 
 #### Predict at target point
